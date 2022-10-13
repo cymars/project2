@@ -4,5 +4,5 @@ The project is a history blog and includes history topics in many different fiel
 
 
 # gif
-![](https://github.com/cymars/project2/blob/main/history.gif)
+![](https://github.com/cymars/project2/blob/main/hist.gif)
 
